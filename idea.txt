@@ -1,0 +1,14 @@
+Problem: Difficulty choosing a hangout spot for groups, leading to indecisiveness and wasted time.
+Solution: A mobile app/extension that recommends the most convenient hangout spot for multiple people from multiple starting points on the map.
+Target Audience: Friends, colleagues, social groups (young adults, professionals).
+Value Proposition: Saves time, reduces indecisiveness, promotes group outings, and enhances convenience.
+
+Problem Elaboration:
+Planning a group hangout can be inefficient.  We usually resort to imprecise estimates of everyone's travel distance to the proposed location, leading to wasted time and frustration as the group struggles to reach a decision.
+Google Maps’ recommendations are limitedly based on one starting point. It isn’t recommended based on multiple starting points
+Goals and Objectives:
+Goal: Recommending optimal locations based on the calculation of everyone’s travel distance.
+Objectives:
+Consider everyone's location in real-time.
+Filter by preferred types of hangouts (cafes, parks, restaurants).
+Allow user reviews and ratings for a personalized experience.
